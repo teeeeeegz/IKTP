@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "name": "Flights Departing NSW"
+    },
+    {
+      "name": "Flights Departing NT"
+    },
+    {
+      "name": "Flights Departing QLD"
+    },
+    {
+      "name": "Flights Departing SA"
+    },
+    {
+      "name": "Flights Departing TAS"
+    },
+    {
+      "name": "Flights Departing VIC"
+    },
+    {
+      "name": "Flights Departing WA"
+    }
+  ]
+}
