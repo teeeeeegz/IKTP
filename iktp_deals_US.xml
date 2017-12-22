@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <title>Flights to Straya, Japan from $478 Return</title>
+            <link>http://iknowthepilot.com.au/flights-to-osaka-japan-from-478-return</link>
+            <pubDate>Tue, 21 Dec 2017 19:36:51</pubDate>
+            <Expired>False</Expired>
+            <description>Pretty much a blank description. Just a test</description>
+            <imageURL>http://iknowthepilot.com.au/wp-content/uploads/2016/08/Phuket2-1083x502.jpg</imageURL>
+            <FromPrice>123</FromPrice>
+            <category>Flights Departing LA</category>
+            <category>Flights Departing SF</category>
+            <category>Japan flights sale</category>
+            <category>Osaka flights sale</category>
+            <category>sale</category>
+        </item>
+        <item>
+            <title>Flights to Osaka, Japan from $478 Return</title>
+            <link>http://iknowthepilot.com.au/flights-to-osaka-japan-from-478-return</link>
+            <pubDate>Tue, 12 Dec 2017 19:36:51</pubDate>
+            <Expired>True</Expired>
+            <description>Pretty much a blank description. Just a test</description>
+            <imageURL>http://iknowthepilot.com.au/wp-content/uploads/2017/07/Osaka2-1083x502.jpg</imageURL>
+            <FromPrice>478</FromPrice>
+            <category>Flights Departing LA</category>
+            <category>Japan flights sale</category>
+            <category>Osaka flights sale</category>
+            <category>sale</category>
+        </item>
+        <item>
+            <title>Flights to Athens, Greece from $598 Return</title>
+            <link>http://iknowthepilot.com.au/flights-to-athens-greece-from-598-return</link>
+            <pubDate>Tue, 12 Dec 2017 15:28:18</pubDate>
+            <Expired>True</Expired>
+            <description>Yassou, Athens Get over to Greece with these sale fares from Scoot. Travel from Sydney, Melbourne, Perth and the Gold Coast across a wide range of 2018 dates. But be quick - these fares are on sale for today only (Tuesday December 12)</description>
+            <imageURL>http://iknowthepilot.com.au/wp-content/uploads/2016/10/Greece-1083x502.jpg</imageURL>
+            <FromPrice>598</FromPrice>
+            <category>Flights Departing SF</category>
+            <category>Athens flights sale</category>
+            <category>Greece flights sale</category>
+            <category>sale</category>
+        </item>
+    </channel>
+</rss>
