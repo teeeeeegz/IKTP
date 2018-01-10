@@ -1,10 +1,40 @@
 {
   "categories": [
     {
-      "name": "Flights Departing LA"
+      "name": "New York"
     },
     {
-      "name": "Flights Departing SF"
+      "name": "Boston"
+    },
+    {
+      "name": "Chicago"
+    },
+    {
+      "name": "Dallas"
+    },
+    {
+      "name": "Houston"
+    },
+    {
+      "name": "Los Angeles"
+    },
+    {
+      "name": "Philadelphia"
+    },
+    {
+      "name": "Phoenix"
+    },
+    {
+      "name": "San Antonio"
+    },
+    {
+      "name": "San Diego"
+    },
+    {
+      "name": "San Francisco"
+    },
+    {
+      "name": "San Jose"
     }
   ]
 }

@@ -1,10 +1,31 @@
 {
-  "categories": [
-    {
-      "name": "Flights Departing Auckland"
-    },
-    {
-      "name": "Flights Departing Wellington"
-    }
-  ]
+	"categories": [
+		{
+			"name": "Auckland"
+		},
+		{
+			"name": "Christchurch"
+		},
+		{
+			"name": "Wellington"
+		},
+		{
+			"name": "Queenstown"
+		},
+		{
+			"name": "Dunedin"
+		},
+		{
+			"name": "Nelson"
+		},
+		{
+			"name": "Napier"
+		},
+		{
+			"name": "Palmerston North"
+		},
+		{
+			"name": "New Plymouth"
+		}
+	]
 }
