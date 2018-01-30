@@ -9,11 +9,8 @@
             <description>Pretty much a blank description. Just a test</description>
             <imageURL>http://iknowthepilot.com.au/wp-content/uploads/2016/08/Phuket2-1083x502.jpg</imageURL>
             <FromPrice>123</FromPrice>
-            <category>Flights Departing LA</category>
-            <category>Flights Departing SF</category>
-            <category>Japan flights sale</category>
-            <category>Osaka flights sale</category>
-            <category>sale</category>
+            <category>Los Angeles</category>
+            <category>San Francisco</category>
         </item>
         <item>
             <title>Flights to Osaka, Japan from $478 Return</title>
@@ -23,10 +20,7 @@
             <description>Pretty much a blank description. Just a test</description>
             <imageURL>http://iknowthepilot.com.au/wp-content/uploads/2017/07/Osaka2-1083x502.jpg</imageURL>
             <FromPrice>478</FromPrice>
-            <category>Flights Departing LA</category>
-            <category>Japan flights sale</category>
-            <category>Osaka flights sale</category>
-            <category>sale</category>
+            <category>Los Angeles</category>
         </item>
         <item>
             <title>Flights to Athens, Greece from $598 Return</title>
@@ -36,10 +30,7 @@
             <description>Yassou, Athens Get over to Greece with these sale fares from Scoot. Travel from Sydney, Melbourne, Perth and the Gold Coast across a wide range of 2018 dates. But be quick - these fares are on sale for today only (Tuesday December 12)</description>
             <imageURL>http://iknowthepilot.com.au/wp-content/uploads/2016/10/Greece-1083x502.jpg</imageURL>
             <FromPrice>598</FromPrice>
-            <category>Flights Departing SF</category>
-            <category>Athens flights sale</category>
-            <category>Greece flights sale</category>
-            <category>sale</category>
+            <category>San Francisco</category>
         </item>
     </channel>
 </rss>
