@@ -2,6 +2,18 @@
 <rss version="2.0">
     <channel>
         <item>
+            <title>Duplicate Test</title>
+            <link>http://iknowthepilot.com.au/flights-to-osaka-japan-from-478-return</link>
+            <pubDate>Sun, 4 Feb 2018 19:36:51</pubDate>
+            <Expired>False</Expired>
+            <description>Pretty much a blank description. Just a test</description>
+            <imageURL>http://iknowthepilot.com.au/wp-content/uploads/2017/07/Osaka2-1083x502.jpg</imageURL>
+            <FromPrice>478</FromPrice>
+            <category>New York</category>
+            <category>Boston</category>
+            <category>Chicago</category>
+        </item>
+        <item>
             <title>Flights to Straya US, Japan from $478 Return</title>
             <link>http://iknowthepilot.com.au/flights-to-osaka-japan-from-478-return</link>
             <pubDate>Tue, 12 Dec 2017 19:36:51</pubDate>
